@@ -56,10 +56,10 @@ ONSEFY_SERVICE_ID=your-service-id-here
 use OnSefy;
 ```php
 $response = OnSefy::validateUser([
-'email' => 'xiyelv1@decep.com',
+'email' => 'user@example.com',
 'phone' => '+13434128780',
 'ip' => '103.209.253.36',
-'name' => 'John Doed',
+'name' => 'John Doe',
 'user_agent' => 'mozilla/5.0 (macintosh; intel mac os x 10.15; rv:136.0) gecko/20100101 firefox/136.0',
 ]);
 
