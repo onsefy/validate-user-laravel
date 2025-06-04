@@ -1,7 +1,6 @@
 # OnSefy Laravel SDK – Validate Users & Detect Fraud
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/onsefy/validate-user-laravel.svg?style=flat-square)](https://packagist.org/packages/onsefy/validate-user-laravel)
-[![Total Downloads](https://img.shields.io/packagist/dt/onsefy/validate-user-laravel.svg?style=flat-square)](https://packagist.org/packages/onsefy/validate-user-laravel)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/onsefy/validate-user-laravel?style=flat-square)](https://packagist.org/packages/onsefy/validate-user-laravel)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Official Laravel SDK for [OnSefy](https://onsefy.com) – Validate new users, detect fraud, and score risk automatically to stop fake signups.
