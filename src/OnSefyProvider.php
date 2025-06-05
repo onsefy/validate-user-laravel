@@ -13,8 +13,7 @@ class OnSefyProvider extends ServiceProvider
         // Publish config file
         $this->publishes([
             __DIR__ . '/../config/onsefy.php' => config_path('onsefy.php'),
-        ], 'config');
-
+        ], 'onsefy-config');
         // Load & publish translations
         $this->loadTranslationsFrom(__DIR__ . '/../resources/lang', 'onsefy');
         $this->publishes([
